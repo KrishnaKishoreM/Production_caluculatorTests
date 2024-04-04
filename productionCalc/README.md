@@ -14,16 +14,13 @@ Documentation
 * [Installation](doc/installation.md)
 * [Predefined steps](doc/canned_steps.md)
 
-Download a Framework
---------------
-* Maven - https://github.com/selenium-cucumber/selenium-cucumber-java-maven-example
 
 Writing a test
 --------------
 
 The cucumber features goes in the `features` library and should have the ".feature" extension.
 
-You can start out by looking at `features/my_first.feature`. You can extend this feature or make your own features using some of the [predefined steps](doc/canned_steps.md) that comes with selenium-cucumber.
+You can start out by looking at `features/prodCalculator.feature`. You can extend this feature or make your own features using some of the [predefined steps](doc/canned_steps.md) that comes with selenium-cucumber.
 
 
 Predefined steps
